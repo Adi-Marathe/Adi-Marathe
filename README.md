@@ -1,16 +1,68 @@
-## Hi there 👋
+### Hey there! 👋
 
-<!--
-**Adi-Marathe/Adi-Marathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aditya, a Computer Engineering student and MERN Stack Developer with a passion for Full Stack Web Development, Software Engineering, and Machine Learning.
 
-Here are some ideas to get you started:
+If an idea pops into my head, I'll probably build it and ship it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+**[StudyFlow](https://study-flow-inky.vercel.app/)** — AI-powered productivity app for students
+Multi-provider AI chatbot · Task manager · Event scheduler with email reminders · Flashcards · Note taking · Mind maps · Pomodoro focus mode · JWT auth.
+
+**[Batch 2023–2026](https://batch2023-2026.vercel.app/)** — Website for my classmates
+White, playful, handwritten theme · Message wall · Student cards · Staff cards · Memories gallery · and more.
+
+**[MCQ Hub](https://eti-mcq-msbte.vercel.app/)** — Interactive MCQ quiz app for MSBTE students
+Built so students don't have to read through books and PDFs — just take a quiz, see your score, and identify your weak topics.
+
+---
+
+### 📚 What I'm Learning
+
+- Exploring advanced concepts in Machine Learning
+- Enhancing my skills in Web Development
+
+---
+
+### ⚡ Fun Facts
+
+- I write cleaner code after midnight
+- Dark mode isn't a preference, it's a personality
+- My hobbies: Anime, Gym, Building things
+
+---
+
+### 📬 Connect
+
+**adimarathe234@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adityamarathe0812)
