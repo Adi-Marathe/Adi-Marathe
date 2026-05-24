@@ -1,8 +1,19 @@
 ### Hey there! 👋
 
-I'm Aditya, a Computer Engineering student and MERN Stack Developer with a passion for Full Stack Web Development, Software Engineering, and Machine Learning.
+I'm **Aditya Marathe**, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
 
-If an idea pops into my head, I'll probably build it and ship it.
+I'm deeply interested in Full Stack Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
+
+If an idea pops into my head, I'll probably build it. 🚀
+
+---
+
+### 🚀 What I Do
+
+- Build full-stack web applications using the MERN Stack
+- Create modern, aesthetic, and interactive user experiences
+- Develop AI-powered tools and productivity platforms
+- Explore backend systems, APIs, and scalable architectures
 
 ---
 
@@ -35,6 +46,15 @@ If an idea pops into my head, I'll probably build it and ship it.
 
 ---
 
+### 📚 Currently Learning
+
+- Advanced Machine Learning
+- AI integrations & intelligent systems
+- Scalable backend development
+- Better UI/UX design principles
+
+---
+
 ### 🚀 Projects
 
 **[StudyFlow](https://study-flow-inky.vercel.app/)** — AI-powered productivity app for students
@@ -45,13 +65,6 @@ White, playful, handwritten theme · Message wall · Student cards · Staff card
 
 **[MCQ Hub](https://eti-mcq-msbte.vercel.app/)** — Interactive MCQ quiz app for MSBTE students
 Built so students don't have to read through books and PDFs — just take a quiz, see your score, and identify your weak topics.
-
----
-
-### 📚 What I'm Learning
-
-- Exploring advanced concepts in Machine Learning
-- Enhancing my skills in Web Development
 
 ---
 
