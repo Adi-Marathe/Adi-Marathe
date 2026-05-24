@@ -69,8 +69,8 @@ Built so students don't have to read through books and PDFs — just take a quiz
 
 ### Fun Facts
 
-- I write cleaner code after midnight
-- Dark mode isn't a preference, it's a personality
+- I can spend hours fixing a UI alignment issue nobody notices
+- I believe good UI can make any project feel magical
 - My hobbies: Anime, Gym, Building things
 
 ---
