@@ -1,23 +1,22 @@
 ### Hey there! 👋
 
-I'm **Aditya Marathe**, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
+I'm **Aditya**, a Computer Engineering student and passionate MERN Stack Developer who loves building modern web applications, AI-powered tools, and creative digital experiences.
 
 I'm deeply interested in Full Stack Development, Software Engineering, and Machine Learning — constantly exploring new technologies, improving my skills, and turning ideas into real projects.
 
-If an idea pops into my head, I'll probably build it. 🚀
+If an idea pops into my head, I'll probably build it. 
 
 ---
 
-### 🚀 What I Do
+### What I Do
 
 - Build full-stack web applications using the MERN Stack
 - Create modern, aesthetic, and interactive user experiences
-- Develop AI-powered tools and productivity platforms
 - Explore backend systems, APIs, and scalable architectures
-
+- Develop AI-powered tools
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -46,7 +45,7 @@ If an idea pops into my head, I'll probably build it. 🚀
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 - Advanced Machine Learning
 - AI integrations & intelligent systems
@@ -55,7 +54,7 @@ If an idea pops into my head, I'll probably build it. 🚀
 
 ---
 
-### 🚀 Projects
+### Projects
 
 **[StudyFlow](https://study-flow-inky.vercel.app/)** — AI-powered productivity app for students
 Multi-provider AI chatbot · Task manager · Event scheduler with email reminders · Flashcards · Note taking · Mind maps · Pomodoro focus mode · JWT auth.
@@ -68,7 +67,7 @@ Built so students don't have to read through books and PDFs — just take a quiz
 
 ---
 
-### ⚡ Fun Facts
+### Fun Facts
 
 - I write cleaner code after midnight
 - Dark mode isn't a preference, it's a personality
@@ -76,6 +75,6 @@ Built so students don't have to read through books and PDFs — just take a quiz
 
 ---
 
-### 📬 Connect
+### Connect
 
 **adimarathe234@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adityamarathe0812)
