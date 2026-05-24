@@ -6,7 +6,7 @@ I'm deeply interested in Full Stack Development, Software Engineering, and Machi
 
 If an idea pops into my head, I'll probably build it. 
 
----
+--
 
 ### What I Do
 
@@ -14,7 +14,7 @@ If an idea pops into my head, I'll probably build it.
 - Create modern, aesthetic, and interactive user experiences
 - Explore backend systems, APIs, and scalable architectures
 - Develop AI-powered tools
----
+--
 
 ### Tech Stack
 
@@ -43,7 +43,7 @@ If an idea pops into my head, I'll probably build it.
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-7C3AED?style=flat-square&logoColor=white)
 
----
+--
 
 ### Currently Learning
 
@@ -65,7 +65,7 @@ White, playful, handwritten theme · Message wall · Student cards · Staff card
 **[MCQ Hub](https://eti-mcq-msbte.vercel.app/)** — Interactive MCQ quiz app for MSBTE students
 Built so students don't have to read through books and PDFs — just take a quiz, see your score, and identify your weak topics.
 
----
+--
 
 ### Fun Facts
 
@@ -73,7 +73,7 @@ Built so students don't have to read through books and PDFs — just take a quiz
 - Dark mode isn't a preference, it's a personality
 - My hobbies: Anime, Gym, Building things
 
----
+--
 
 ### Connect
 
