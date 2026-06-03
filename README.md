@@ -76,7 +76,7 @@ Built so students don't have to read through books and PDFs — just take a quiz
 - My hobbies: Anime, Music, Building things
 
 ---
-<img src="https://count.getloli.com/get/@Mayur-Pagote?theme=rule34"/>
+
 ### Connect
 
 **adimarathe234@gmail.com** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/adityamarathe0812)
