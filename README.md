@@ -54,20 +54,6 @@ If an idea pops into my head, I'll probably build it.
 
 ---
 
-### Projects
-
-**[StudyFlow](https://study-flow-inky.vercel.app/)** — AI-powered productivity app for students
-Multi-provider AI chatbot · Task manager · Event scheduler with email reminders · Flashcards · Note taking · Mind maps · Pomodoro focus mode · JWT auth.
-
-**[Ethereal Chat](https://github.com/Adi-Marathe/Ethereal-Chat-Application)** — Real-time chat application featuring a premium dark glassmorphism UI. Fully built through AI-driven development by orchestrating Stitch, Antigravity, and Claude · Private messaging · Public rooms · Online status tracking · Built with Socket.IO & MERN stack.
-
-**[Batch 2023–2026](https://batch2023-2026.vercel.app/)** — Website for my classmates
-White, playful, handwritten theme · Message wall · Student cards · Staff cards · Memories gallery · and more.
-
-**[MCQ Hub](https://eti-mcq-msbte.vercel.app/)** — Interactive MCQ quiz app for MSBTE students
-Built so students don't have to read through books and PDFs — just take a quiz, see your score, and identify your weak topics.
-
----
 
 ### Fun Facts
 
